@@ -1,0 +1,6 @@
+nc_exmachina:frame * nc_exmachina_frame.png
+nc_exmachina:core sides nc_exmachina_frame.png
+nc_exmachina:core top nc_exmachina_core.png
+nc_exmachina:core bottom nc_exmachina_core.png
+
+
