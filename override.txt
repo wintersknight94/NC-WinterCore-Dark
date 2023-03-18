@@ -3,13 +3,4 @@ nc_exmachina:core sides nc_exmachina_frame.png
 nc_exmachina:core top nc_exmachina_core.png
 nc_exmachina:core bottom nc_exmachina_core.png
 
-nc_concrete:concrete_coalstone_iceboxy * nc_concrete_coalstone_iceboxy.png
-nc_concrete:concrete_coalstone_boxy * nc_concrete_coalstone_boxy.png
-nc_concrete:concrete_coalstone_horzy * nc_concrete_coalstone_horzy.png
-nc_concrete:concrete_coalstone_verty * nc_concrete_coalstone_verty.png
-nc_concrete:concrete_coalstone_vermy * nc_concrete_coalstone_vermy.png
-nc_concrete:concrete_coalstone_hashy * nc_concrete_coalstone_hashy.png
-nc_concrete:concrete_coalstone_bricky * nc_concrete_coalstone_bricky.png
-nc_concrete:concrete_coalstone_bindy * nc_concrete_coalstone_bindy.png
-
 
